@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\remyg\\Programming\\C#\\RazorPagesMovie\\RazorPagesMovie.csproj",
+      "projectUniqueName": "C:\\Users\\remyg\\Programming\\C#\\RazorPages\\RazorPagesMovie\\RazorPagesMovie.csproj",
       "projectName": "RazorPagesMovie",
-      "projectPath": "C:\\Users\\remyg\\Programming\\C#\\RazorPagesMovie\\RazorPagesMovie.csproj",
+      "projectPath": "C:\\Users\\remyg\\Programming\\C#\\RazorPages\\RazorPagesMovie\\RazorPagesMovie.csproj",
       "packagesPath": "C:\\Users\\remyg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\remyg\\Programming\\C#\\RazorPagesMovie\\obj\\",
+      "outputPath": "C:\\Users\\remyg\\Programming\\C#\\RazorPages\\RazorPagesMovie\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\remyg\\AppData\\Roaming\\NuGet\\NuGet.Config",
